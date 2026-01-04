@@ -2,7 +2,7 @@ Read Me!
 Welcome to BrewEase: Coffee Shop Order Management System. Here is the manual for you :)
 ***************************************************************************************************************************************
 1. Landing Page:
-- Please go to https://10.65.200.1/ci220068
+- Please go to [https://brewease](http://localhost/brewease/portal.php)
 - It integrates all users system; Manager, Cashier, and Customer.
 - Upon clicking "Login as Manager" or "Login as Cashier" or "Continue as Customer", system will redirects to their respective dashboards.
 =======================================================================================================================================
